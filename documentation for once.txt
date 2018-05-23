@@ -1,0 +1,7 @@
+== Display Chips! ==
+
+Create a super object for potato. Then with polymorphism have other objects inherit
+the potato object. From there add in other variables and functions representing the 
+different ways to cook potatoes. (boil em mash em stick em in a stew.) Have each
+button pressed display an image of that potato recipe. More information can be displayed
+on the bottom of the screen. 
